@@ -85,6 +85,11 @@ body {
   color: black;
 }
 
+.status{
+  display: flex;
+  justify-content: center;
+}
+
 .board-row:after {
   clear: both;
   content: '';
